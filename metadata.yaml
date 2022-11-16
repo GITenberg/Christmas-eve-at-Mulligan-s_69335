@@ -1,0 +1,27 @@
+_repo: Christmas-eve-at-Mulligan-s_69335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irish, Marie
+    gutenberg_agent_id: '47603'
+    url: http://www.gutenberg.org/2009/agents/47603
+description: ''
+gutenberg_issued: '2022-11-12'
+identifiers:
+  gutenberg: '69335'
+language: en
+pgterms:marc904: https://archive.org/details/christmaseveatmu00iris/page/n3/mode/2up
+pgterms:marc905: 20211219192609irish
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Paine Publishing Company,1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Christmas eve at Mulligan's
+url: http://www.gutenberg.org/ebooks/69335
