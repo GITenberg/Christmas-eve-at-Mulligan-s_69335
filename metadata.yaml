@@ -1,11 +1,16 @@
 _repo: Christmas-eve-at-Mulligan-s_69335
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69335-h/images/cover.jpg
 creator:
   author:
     agent_name: Irish, Marie
     gutenberg_agent_id: '47603'
     url: http://www.gutenberg.org/2009/agents/47603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69335#Christmas-eve-at-Mulligan-s
 gutenberg_issued: '2022-11-12'
 identifiers:
   gutenberg: '69335'
